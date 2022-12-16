@@ -63,7 +63,7 @@ def playing():
         print("        '-------'       ")
     else:
         print("You've been hanged !")
-        print("A palavra era {}".format(secret_word))
+        print("The word was {}".format(secret_word))
         print("    _______________         ")
         print("   /               \       ")
         print("  /                 \      ")
